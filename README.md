@@ -7,7 +7,7 @@ ST10510193
  DISD0601 Group 1 
 
 ## Project Overview 
-### The organisation name: Angela ‘s Hope Foundation. 
+### The organisation name: Angela ‘s Hope Foundation.
 
 The Angela’s Hope Foundation is a non-governmental organisation that seeks to enhance the welfare of children, youths, and their families through community development programs. The organisation’s operations revolve around socio-economic issues like poverty, lack of jobs, low levels of education and food scarcity. As an attempt to solve these problems, the organisation encourages education, skills development, community development and other projects that will positively impact community welfare. These areas reflect social responsibility principles which involve contributing to community welfare through education, job creation, skill development, donation and community-based projects among others.
 
