@@ -372,8 +372,6 @@ Updated website design and added CSS styling
     * Laptops/desktops.
 * Overall, Part 3 resulted in a website that is more responsive, interactive, accessible, searchable, visually engaging, functional and user-friendly.
 
-### Part 3
-  
 ## Website references
 ### Part 1 referencing
  Anon., n.d. About us.Afrika Tikkun. [Online] 
