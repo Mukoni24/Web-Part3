@@ -260,29 +260,7 @@ MDN Web Docs (n.d.) Backgrounds and borders. Available at: https://developer.moz
 W3Schools (n.d.) CSS Tutorial. Available at: https://www.w3schools.com/css/ [Accessed: 15 September 2026]. 
 
 W3Schools (n.d.) HTML and CSS Tutorial. Available at: https://www.w3schools.com/htmlcss/ [Accessed: 15 September 2026].
-
-###  List of Figures: 
-#### Word Document:  Figures
-1. Figure 2: StockCake. 2026.Sharing community spirit.
-2. Figure 3: StockCake. 2026.Tech store buzz.
-
-### Website:  Figures 
-
-3. Figure 1: StockCake. [n.d.]. Village Gathering Space.  
-4. Figure 2: StockCake. [n.d.]. Charity Book Distribution.  
-5. Figure 3: StockCake. [n.d.]. Community Aid Distribution.  
-6. Figure 4: StockCake. [n.d.]. Community Giving Together.  
-7. Figure 5: StockCake. [n.d.]. Volunteers Packing Food.  
-8. Figure 6: StockCake. [n.d.]. Clothing Donation Pile.  
-9. Figure 7: StockCake. [n.d.]. Charity Food Drive.  
-10. Figure 8: StockCake. [n.d.]. Volunteers Sorting Donations.  
-11. Figure 9: StockCake. [n.d.]. Volunteers Packing Food.  
-12. Figure 10: StockCake. [n.d.]. Hands Growing Community.  
-13. Figure 11: StockCake. [n.d.]. Outdoor Community Meeting.  
-14. Figure 12: StockCake. [n.d.]. Children Under Tree.  
-15. Figure 13: StockCake. [n.d.]. Village Meeting Gathering.  
-16. Figure 14: StockCake. [n.d.]. Village Gathering Space.
-    
+  
 ### Part 3 Referencing
 
 FasterCapital,2026. JavaScript: Interactive HTML Elements: Unleashing the Power of JavaScript. [Online] Available at: https://fastercapital.com/content/JavaScript--Interactive-HTML-Elements--Unleashing-the-PowerofJavaScript.html [Accessed 28 October 2026].
