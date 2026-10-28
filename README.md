@@ -148,61 +148,60 @@ Updated website design and added CSS styling
 ## References 
 
 ### Word document references
-1. StockCake.2026. Sharing community spirit. [electronic print]. Available at:  https://stockcake.com/i/sharing-community-spirit_1807627_1240535⁠. [Accessed 20 July 2026].
-
-2. StockCake.2026. Tech store buzz. [electronic print]. Available at:  https://stockcake.com/i/tech-store-buzz_1138030_235655. [Accessed 20 July 2026].
+StockCake.2026. Sharing community spirit. [electronic print]. Available at:  https://stockcake.com/i/sharing-community-spirit_1807627_1240535⁠. [Accessed 20 July 2026].
+StockCake.2026. Tech store buzz. [electronic print]. Available at:  https://stockcake.com/i/tech-store-buzz_1138030_235655. [Accessed 20 July 2026].
    
 ## Website references
 ### Part 1 referencing
-1. Anon., n.d. About us.Afrika Tikkun. [Online] 
+ Anon., n.d. About us.Afrika Tikkun. [Online] 
 Available at: https://afrikatikkun.org/about-us/
 [Accessed 1 August 2026].
 
-2. Bootstrap, 2025. Bootstrap documentation. [Online] 
+Bootstrap, 2025. Bootstrap documentation. [Online] 
 Available at: https://getbootstrap.com/docs/5.3/getting-started/introduction/
 [Accessed 1 August 2026].
 
-3. Bootstrap, 2025. Bootstrap documentation. [Online] 
+Bootstrap, 2025. Bootstrap documentation. [Online] 
 Available at: https://getbootstrap.com/docs/5.3/getting-started/introduction/
 [Accessed 1 August 2026].
 
-4. GitHub Inc, n.d. GitHub Docs. [Online] 
+GitHub Inc, n.d. GitHub Docs. [Online] 
 Available at: https://docs.github.com/en
 [Accessed 1 August 2026].
 
-5. GitHub, n.d. GitHub documentation. [Online] 
+GitHub, n.d. GitHub documentation. [Online] 
 Available at: https://docs.github.com/en
 [Accessed 1 August 2026].
 
-6. Google Search Central, n.d. Search engine optimisation(SEO). [Online] 
+Google Search Central, n.d. Search engine optimisation(SEO). [Online] 
 Available at: https://developers.google.com/search/docs
 [Accessed 1 August 2026].
 
-7. Mozilla Developer Network, n.d. HTML: Hypertext Markup Language.MDN Web Docs. [Online] 
+Mozilla Developer Network, n.d. HTML: Hypertext Markup Language.MDN Web Docs. [Online] 
 Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
 [Accessed 1 August 2026].
 
-8. Mozilla Developer Network, n.d. CSS: Cascading Style Sheets. [Online] 
+Mozilla Developer Network, n.d. CSS: Cascading Style Sheets. [Online] 
 Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Accessed 1 August 2026].
 
-9. Mozilla Developer Network, n.d. CSS: Cascading Style Sheets.MDN Web Docs. [Online] 
+Mozilla Developer Network, n.d. CSS: Cascading Style Sheets.MDN Web Docs. [Online] 
 Available at: https://developer.mozilla.org/en-US/docs/Web/CSS
 [Accessed 1 August 2026].
 
-10. Mozilla Developer Network, n.d. HTML: Hypertext Markup Language. [Online] 
+Mozilla Developer Network, n.d. HTML: Hypertext Markup Language. [Online] 
 Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
 [Accessed 1 August 2026].
 
-11. Mozilla Developer Network, n.d. JavaScript. [Online] 
+Mozilla Developer Network, n.d. JavaScript. [Online] 
 Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Accessed 1 August 2026].
 
-12. Mozilla Developer Network, n.d. JavaScript.MDN Web Docs. [Online] 
+Mozilla Developer Network, n.d. JavaScript.MDN Web Docs. [Online] 
 Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Accessed 1 August 2026].
 
-13. Takealot, n.d. About us. [Online] 
+Takealot, n.d. About us. [Online] 
 Available at: https://www.takealot.com/about
 [Accessed 1 August 2026].
 
@@ -286,7 +285,7 @@ https://stockcake.com/i/village-gathering-space_335374_72238 [Accessed 3 August 
     
 ### Part 3 Referencing
 
-FasterCapital,2026. JavaScript: Interactive HTML Elements: Unleashing the Power of JavaScript. [Online]Available at: https://fastercapital.com/content/JavaScript--Interactive-HTML-Elements--Unleashing-the-Power-of-JavaScript.html   [Accessed 28 October 2026].
+FasterCapital,2026. JavaScript: Interactive HTML Elements: Unleashing the Power of JavaScript. [Online]Available at: https://fastercapital.com/content/JavaScript--Interactive-HTML-Elements--Unleashing-the-Power-ofJavaScript.html   [Accessed 28 October 2026].
 W3Schools.GoogleMapsBasic. [Online]Available at:https://www.w3schools.com/graphics/google_maps_basic.asp [ Accessed 28 October 2026].
 W3Schools.HTML Google Maps. [Online]Available at: https://www.w3schoolsedu.com/html-google-maps [ Accessed 28 October 2026].
 W3Schools.HowTOLight. [Online]Available at: https://www.w3schools.com/howto/howto_js_lightbox.asp [ Accessed 28 October 2026].
