@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="Angela’s Hope for Tomorrow Foundation is a non-profit organisation dedicated to improving the quality of life of vulnerable children, young people, and families. The Foundation focuses on addressing challenges such as poverty, limited access to education, youth unemployment, and food insecurity through sustainable community development programmes.
+    The organisation provides educational support, food assistance, youth mentorship, skills development, and community outreach initiatives. Through these programmes, the Foundation aims to provide individuals with the knowledge, resources, opportunities, and support needed to become more independent and build a better future.
+    Angela’s Hope for Tomorrow Foundation works together with volunteers, donors, businesses, educational institutions, and community organisations to create meaningful and sustainable change within communities. Its mission is to empower vulnerable communities through education, support, and sustainable development, while its vision is to create communities where every individual has access to opportunities that inspire hope, dignity, and a better future.
+    The Foundation also focuses on key areas such as education, skills development, youth empowerment, community health awareness, and poverty alleviation. Through these efforts, Angela’s Hope for Tomorrow Foundation seeks to create lasting social benefits and encourage stronger, more empowered communities.
+    The Foundation’s website is intended to strengthen its online presence and make it easier for the public, volunteers, donors, sponsors, beneficiaries, and community partners to access information about its work. The website will also help promote programmes, encourage donations and sponsorships, support volunteer recruitment, and improve communication with stakeholders.">
+
+    <meta name="keywords" content="Angela’s Hope for Tomorrow Foundation, Non-profit organisation, Community development, Vulnerable communities, Vulnerable children, Youth empowerment, Family support, Poverty alleviation, Education support, Skills development, Youth mentorship, Food assistance, Food security, Community outreach, Community support, Sustainable development, Community empowerment, Educational opportunities, Youth development, Community health awareness, Volunteer opportunities, Donations, Sponsorships, Fundraising, Social development, Self-reliance, Hope and dignity, Empowering communities, Better future, Sustainable community programmes.">
+    
+    <link rel="stylesheet" href="css_assets/style.css">
+    <title> Angela "s Hope For Tomorrow Foundation | Donations </title>
+</head>
+<body>
+
+    <!-- Foundation Logo -->
+    <!--
+        The <img> tag is used to show the foundation's logo.
+        The class="logo" is used to style the logo with CSS.
+        The src shows where the logo picture is stored.
+        The alt gives a description of the logo if the picture
+        cannot be displayed.
+    -->
+
+    <header> 
+        <img class="logo" src = "_images/logo/foundation_logo.png"
+        alt="Angela's Hope Foundation Logo">
+    </header>
+
+    <!--
+        Closes the <header> element and marks the end of
+        the foundation logo section.
+    -->
+
+	<!-- Navigation Menu -->
+    <!--
+        Creates a menu toggle button. The button uses the
+        "menu-toggle" class for CSS styling and calls the
+        toggleMenu() JavaScript function when clicked.
+    -->
+         
+<button class="menu-toggle" onclick="toggleMenu()">
+    &#9776;
+</button>
+
+<nav id="navbar">
+    <ul>
+        <li><a href="index.html">Home</a></li> |
+        <li><a href="aboutus.html">About Us</a></li> |
+        <li><a href="programmes.html">Community Programmes</a></li> |
+        <li><a href="gallery.html">Gallery</a></li> |
+        <li><a href="news.html">News & Events</a></li> |
+        <li><a href="volunteer.html">Volunteer</a></li> |
+        <li><a href="donations.html">Donations</a></li> |
+        <li><a href="contactus.html">Contact Us</a></li>|
+        <li><a href="enquiries.html">Enquiries</a></li>
+    </ul>
+</nav>
+
+    <!--
+        Closes the navigation section and marks the end of
+        the website's main navigation menu.
+    -->
+ 
+    <!--
+    Reference:
+    Bro Code (2023) 'How to create a CSS navigation bar in 6 minutes!'.
+    YouTube. Available at:
+    https://youtu.be/f3uCSh6LIY0?si=nhJIZSOkBrt2BLhl
+    (Accessed: 14 September 2026).
+     -->
+
+<main>
+
+    <!-- Donation Section -->
+    <div class="donation-heading">
+    <h1>Donate &  Make a Difference</h1>
+    </div>
+
+    <p>
+        Your donations help us provide education, food support and community development programmes.
+    </p>
+
+    <!-- Regular Donation -->
+    <div class="regular-donation">
+
+        <h2>Choose your interval:</h2>
+
+    <div class="interval-options">
+
+        <!-- Monthly donation button -->
+        <button type="button" id="monthlyBtn">
+            MONTHLY
+        </button>
+
+        <!-- Quarterly donation button -->
+        <button type="button" id="quarterlyBtn">
+            QUARTERLY
+        </button>
+
+    </div>
+
+    <p>
+        12 monthly donations to support our community programmes.
+    </p>
+
+
+    <div class="amount-section">
+
+        <h2>Choose your amount:</h2>
+
+        <div class="amount-options">
+
+            <!-- R100 button -->
+            <button type="button" id="amount100">
+                R100
+            </button>
+
+            <!-- R250 button -->
+            <button type="button" id="amount250">
+                R250
+            </button>
+
+            <!-- R500 button -->
+            <button type="button" id="amount500">
+                R500
+            </button>
+
+        </div>
+
+        <!-- Custom Amount -->
+        <div class="amount-input">
+
+            <label for="regularAmount">
+                Amount<span>*</span>
+            </label>
+
+            <span>R</span>
+
+            <input
+                type="number"
+                id="regularAmount"
+                name="regularAmount"
+                value="100"
+                min="1"
+            >
+
+        </div>
+
+        <!-- Donation Message -->
+        <div class="donation-message">
+
+            <p>
+                Every donation helps us support more families and strengthen our community.
+            </p>
+
+        </div>
+
+        <!-- Payment Methods -->
+        <section class="payment-methods">
+
+            <h2>Available payment methods:</h2>
+
+            <!--
+                The payment-logos class groups all
+                the payment method pictures together.
+            -->
+            <div class="payment-logos">
+
+                <!-- Apple Pay -->
+                <img
+                    src="_images/payment_methods/apple_pay.jpg"
+                    alt="Apple Pay"
+                    class="payment-method"
+                    data-payment="Apple Pay"
+                >
+
+                <!-- Google Pay -->
+                <img
+                    src="_images/payment_methods/google_pay.webp"
+                    alt="Google Pay"
+                    class="payment-method"
+                    data-payment="Google Pay"
+                >
+
+                <!-- Visa -->
+                <img
+                    src="_images/payment_methods/Visa.webp"
+                    alt="Visa"
+                    class="payment-method"
+                    data-payment="Visa"
+                >
+
+                <!-- Mastercard -->
+                <img
+                    src="_images/payment_methods/mastercard.webp"
+                    alt="Mastercard"
+                    class="payment-method"
+                    data-payment="Mastercard"
+                >
+
+                <!-- Samsung Pay -->
+                <img
+                    src="_images/payment_methods/samsung_pay.webp"
+                    alt="Samsung Pay"
+                    class="payment-method"
+                    data-payment="Samsung Pay"
+                >
+
+                <!-- Instant EFT -->
+                <img
+                    src="_images/payment_methods/instant_eft.webp"
+                    alt="Instant EFT"
+                    class="payment-method"
+                    data-payment="Instant EFT"
+                >
+
+                <!-- SnapScan -->
+                <img
+                    src="_images/payment_methods/snapscan.webp"
+                    alt="SnapScan"
+                    class="payment-method"
+                    data-payment="SnapScan"
+                >
+
+                <!-- RCS -->
+                <img
+                    src="_images/payment_methods/rcs.webp"
+                    alt="RCS"
+                    class="payment-method"
+                    data-payment="RCS"
+                >
+
+                <!-- Maestro -->
+                <img
+                    src="_images/payment_methods/maestro.webp"
+                    alt="Maestro"
+                    class="payment-method"
+                    data-payment="Maestro"
+                >
+
+                <!-- Visa Electron -->
+                <img
+                    src="_images/payment_methods/visa_electron.webp"
+                    alt="Visa Electron"
+                    class="payment-method"
+                    data-payment="Visa Electron"
+                >
+
+                <!-- Mobicred -->
+                <img
+                    src="_images/payment_methods/mobicred.webp"
+                    alt="Mobicred"
+                    class="payment-method"
+                    data-payment="Mobicred"
+                >
+
+                <!-- PayPal -->
+                <img
+                    src="_images/payment_methods/paypal.webp"
+                    alt="PayPal"
+                    class="payment-method"
+                    data-payment="PayPal"
+                >
+
+            </div>
+
+        </section>
+
+        <!-- Bank Details -->
+    <div id="bankDetails" class="bank-details-form">
+
+        <h3>Payment Details</h3>
+
+    <!-- Account Holder -->
+    <div class="bank-field">
+        <label for="accountHolder">Account Holder Name:</label>
+
+        <input
+            type="text"
+            id="accountHolder"
+            placeholder="Enter account holder name"
+        >
+    </div>
+
+    <!-- Bank -->
+    <div class="bank-field">
+        <label for="bankName">Bank Name:</label>
+
+        <input
+            type="text"
+            id="bankName"
+            placeholder="Enter bank name"
+        >
+    </div>
+
+    <!-- Account Number -->
+    <div class="bank-field">
+        <label for="accountNumber">Account Number:</label>
+
+        <input
+            type="text"
+            id="accountNumber"
+            placeholder="Enter account number"
+        >
+    </div>
+
+    <!-- Reference -->
+    <div class="bank-field">
+        <label for="paymentReference">Payment Reference:</label>
+
+        <input
+            type="text"
+            id="paymentReference"
+            placeholder="Enter payment reference"
+        >
+    </div>
+
+</div>
+
+
+        <!-- Donate Button -->
+        <button type="button" id="donateButton" class="donate-button">
+            DONATE
+        </button>
+
+
+        <!--
+            JavaScript will display the result of
+            the donation here.
+        -->
+        <p id="donationMessage"></p>
+
+    </div>
+
+</div>
+
+
+<section class="eft-donation">
+
+    <h2>EFT donation</h2>
+
+    <p>
+        If you would prefer to make an EFT donation
+        to Angela Hope Foundation, please use the
+        banking details below.
+    </p>
+
+
+    <div class="bank-details">
+
+        <p>
+            <strong>Angela Hope Foundation</strong>
+        </p>
+
+        <p>
+            <strong>Bank:</strong> Capitec Bank
+        </p>
+
+        <p>
+            <strong>Account Holder:</strong> Angela Hope Foundation
+        </p>
+
+        <p>
+            <strong>Account Number:</strong>1234567890
+        </p>
+
+        <p>
+            <strong>Branch Code:</strong> 470010
+        </p>
+
+        <p>
+            <strong>Reference:</strong> Donor Name/Donation
+        </p>
+
+    </div>
+
+</section>
+
+</main>
+<!--Website Footer : Contains copyright and additional information -->
+<footer>
+
+    <!-- The footer-content class groups the footer information and allows CSS to control its layout, spacing, and appearance. -->
+    <div class="footer-content">
+
+        <!-- Our Programmes -->
+        <div class="footer-section">
+            <h3>Our Programmes</h3>
+
+            <a href="programmes.html">Community Programmes</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="news.html">News &amp; Events</a>
+
+        </div>
+
+        <!-- Get Involved -->
+    <div class="footer-section">
+        <h3>Get Involved</h3>
+
+        <a href="volunteer.html">Become a Volunteer</a>
+        <a href="donations.html">Make a Donation</a>
+        <a href="#">Partner With Us</a>
+
+    </div>
+
+        <!-- Quick Links -->
+        <div class="footer-section">
+            <h3>Quick Links</h3>
+
+            <a href="index.html">Home</a>
+            <a href="aboutus.html">About Us</a>
+            <a href="programmes.html">Community Programmes</a>
+            <a href="gallery.html">Gallery</a>
+            <a href="contactus.html">Contact Us</a>
+            <a href="enquiries.html">Enquiries</a>
+
+        </div>
+        <!--
+        Reference:
+        Mr Long Education - IT & CAT (2021) 'HTML Webpage Design Part 9:
+        Hyperlinks'. YouTube. Available at:
+        https://youtu.be/gbysvuaFda0
+        (Accessed: 14 September 2026).
+        -->
+
+    </div>
+
+    <!-- Copyright -->
+
+    <!--
+        The "copyright" class is used to identify the copyright section
+        in the footer. It allows CSS to style and position the copyright
+        notice separately from the other footer content.
+    -->
+
+    <div class="copyright">
+      <script>
+			var newDate = new Date();
+			document.write(newDate.getFullYear());
+			document.write(" &copy; Angela's Hope Foundation. All Rights Reserved. ");
+            document.write( newDate.toDateString());
+		</script>
+    </div>
+
+</footer>
+<script src="js_assets/script.js"></script>
+</body>
+</html>
