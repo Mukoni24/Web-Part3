@@ -145,6 +145,233 @@ Updated website design and added CSS styling
 19. Separated content from presentation by moving visual formatting from the HTML document into the external CSS stylesheet, making the website easier to maintain and update.
 20. Overall, improved the website from the original HTML-only version by adding structured CSS styling, responsive design, improved layouts, consistent colours, better spacing, interactive effects and media responsiveness.
 
+### PART 3 CHANGELOG – ANGELA’S HOPE FOR TOMORROW WEBSITE
+
+1. Gallery Lightbox
+
+* Added a gallery lightbox to improve the way images are displayed.
+* Users can click on an image to open it in a larger view.
+* The lightbox allows users to focus on individual images without leaving the webpage.
+* Improved the visual presentation of the website’s gallery.
+* Made the gallery more interactive and engaging.
+* Reduced the need for users to open images in a separate browser tab.
+* Improved the overall professional appearance of the gallery section.
+
+2. Additional Map
+
+* Added an additional map to the website.
+* Provided visitors with more location-related information.
+* Improved the presentation of geographical information.
+* Made important locations easier for visitors to identify.
+* Increased the usefulness of the website for visitors who require location information.
+* Improved the website’s functionality by providing more than one map where required.
+
+3. Interactive Maps
+
+* Added interactive map functionality.
+* Allowed users to interact with map information instead of viewing only static location information.
+* Improved the way geographical information is presented.
+* Made the website more engaging for visitors.
+* Improved navigation and access to location information.
+* Added a more modern and interactive feature to the website.
+
+4. Interactive Elements
+
+* Added additional interactive elements throughout the website.
+* Improved interaction between visitors and website content.
+* Made the website less dependent on static information.
+* Added functionality that allows users to actively interact with different sections.
+* Improved user engagement.
+* Created a more modern and professional user experience.
+* Improved the overall usability of the website.
+
+5. Dynamic Content
+
+* Added dynamic content to improve website functionality.
+* Improved the way website information is displayed and accessed.
+* Allowed content to respond more effectively to user interaction.
+* Reduced reliance on completely static content.
+* Improved the flexibility of the website.
+* Made information easier for users to access.
+* Improved the overall user experience.
+
+6. Search Feature
+
+* Added a search feature to the website.
+* Allows visitors to search for relevant information more quickly.
+* Improved website navigation.
+* Reduced the need for users to manually search through every webpage.
+* Made website information easier to locate.
+* Improved accessibility to the website’s content.
+* Enhanced the overall user experience, particularly as the amount of website content increases.
+
+7. Title Tags
+
+* Added and improved HTML title tags for the website pages.
+* Used relevant titles to describe the content of individual webpages.
+* Improved identification of webpages in browser tabs.
+* Helped provide clearer information about each webpage.
+* Improved the website’s SEO structure.
+* Made the website pages more organised and descriptive.
+
+8. Meta Keywords
+
+* Added relevant meta keywords to the website.
+* Used keywords related to the content and purpose of the website.
+* Improved the organisation of the website’s metadata.
+* Provided additional information about the topics covered on the webpages.
+* Supported the website’s overall SEO structure.
+
+9. Meta Descriptions
+
+* Added and improved meta descriptions for webpages.
+* Created descriptions that summarise the content of individual pages.
+* Improved the website’s metadata.
+* Helped communicate the purpose of each webpage.
+* Supported the website’s SEO structure.
+* Improved the information available to search engines about the website’s content.
+
+10. Enquiry Email Process
+
+* Implemented an email enquiry process.
+* Connected the enquiry form to an email-based communication process.
+* Allows visitors to submit enquiries through the website.
+* Makes it easier for visitors to contact Angela’s Hope for Tomorrow.
+* Improves communication between website visitors and the organisation.
+* Provides a more convenient alternative to requiring users to manually compose an email.
+* Improved the overall functionality of the contact/enquiry section.
+
+11. Enquiry Validation
+
+* Added validation to the enquiry form.
+* Checked that required information is completed before submission.
+* Added controls to help identify incomplete or incorrectly entered information.
+* Helps reduce invalid enquiry submissions.
+* Improves the quality and reliability of information received.
+* Provides users with feedback when information needs to be corrected.
+* Improves the overall usability of the enquiry form.
+
+12. Enquiry Controls
+
+* Added additional enquiry controls to improve the form submission process.
+* Improved the way information is entered into the enquiry form.
+* Added controls to help manage user input.
+* Reduced the possibility of incomplete submissions.
+* Improved the reliability of the enquiry process.
+* Made the enquiry form easier for visitors to use.
+* Created a more structured and controlled communication process.
+
+13. Responsive Media Queries
+
+* Inspected the website’s CSS media queries.
+* Identified layout and responsiveness issues.
+* Corrected media queries to improve the website’s appearance on different devices.
+* Adjusted the website for mobile phones.
+* Adjusted the website for tablets.
+* Adjusted the website for laptops and larger screens.
+* Improved the positioning and sizing of website elements.
+* Reduced layout problems such as overlapping or incorrectly positioned elements.
+* Improved the consistency of the website across different screen sizes.
+* Improved the overall responsive design.
+
+14. Mobile Phone Responsiveness
+
+* Tested the website on smaller mobile screen sizes.
+* Adjusted the layout to fit smartphone screens correctly.
+* Improved the positioning of navigation and page elements.
+* Adjusted images and other content to prevent them from extending beyond the screen.
+* Improved readability on mobile devices.
+* Improved the overall mobile user experience.
+
+15. Tablet Responsiveness
+
+* Tested the website layout on tablet screen sizes.
+* Adjusted CSS media queries for tablet dimensions.
+* Improved spacing and positioning of website elements.
+* Ensured that images and content display correctly.
+* Reduced unnecessary stretching or compression of website components.
+* Improved the consistency of the website’s tablet layout.
+
+16. Laptop/Desktop Responsiveness
+
+* Tested the website on laptop and larger screen sizes.
+* Adjusted page elements to make better use of available screen space.
+* Improved the positioning and sizing of content.
+* Ensured that the website maintains a professional appearance on larger screens.
+* Improved consistency between laptop and smaller-screen layouts.
+
+17. Image File Names
+
+* Reviewed the file names of website images.
+* Corrected unclear or unsuitable image file names.
+* Used more descriptive names for images.
+* Improved the organisation of image files.
+* Made images easier to identify during website development and maintenance.
+* Improved website file management.
+* Supported better SEO and accessibility practices through descriptive naming.
+
+18. Image Alt Text
+
+* Reviewed and corrected image alt text.
+* Added meaningful descriptions to relevant images.
+* Improved website accessibility for users who rely on screen readers.
+* Ensured that images have appropriate alternative descriptions.
+* Improved the information available when an image cannot be displayed.
+* Made the website more accessible and inclusive.
+* Improved the quality and structure of the website’s HTML.
+
+19. Image Responsiveness
+
+* Inspected website images across different screen sizes.
+* Adjusted images to display correctly on mobile, tablet and laptop screens.
+* Reduced problems involving images being too large or extending outside their containers.
+* Improved image positioning and sizing.
+* Ensured that images work correctly with the responsive layout.
+* Improved the visual consistency of the website.
+
+20. Overall User Experience
+
+* Improved the overall usability of Angela’s Hope for Tomorrow website.
+* Added more interactive functionality.
+* Improved navigation through the search feature.
+* Improved image presentation through the gallery lightbox.
+* Improved location information through additional and interactive maps.
+* Improved communication through the enquiry email process.
+* Improved the accuracy of enquiry submissions through validation.
+* Improved accessibility through corrected image alt text.
+* Improved website organisation through descriptive image file names.
+* Improved SEO structure through title tags and meta descriptions.
+* Improved responsiveness across mobile phones, tablets and laptops.
+* Created a more professional, interactive and user-friendly website.
+
+21. Overall Part 3 Outcome
+
+* The website was developed from a primarily static website into a more interactive and functional platform.
+* User interaction was improved through:
+    * Gallery lightbox functionality.
+    * Interactive maps.
+    * Additional map functionality.
+    * Dynamic content.
+    * Search functionality.
+    * Interactive website elements.
+* Website communication was improved through:
+    * Enquiry email functionality.
+    * Enquiry validation.
+    * Enquiry controls.
+* SEO and website metadata were improved through:
+    * Title tags.
+    * Meta keywords.
+    * Meta descriptions.
+* Accessibility and image management were improved through:
+    * Corrected image file names.
+    * Improved alt text.
+    * Responsive image adjustments.
+* Responsive design was improved by inspecting and correcting media queries for:
+    * Mobile phones.
+    * Tablets.
+    * Laptops/desktops.
+* Overall, Part 3 resulted in a website that is more responsive, interactive, accessible, searchable, visually engaging, functional and user-friendly.
+
 ### Part 3
   
 ## Website references
