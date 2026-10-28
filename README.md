@@ -285,7 +285,7 @@ W3Schools (n.d.) HTML and CSS Tutorial. Available at: https://www.w3schools.com/
     
 ### Part 3 Referencing
 
-FasterCapital,2026. JavaScript: Interactive HTML Elements: Unleashing the Power of JavaScript. [Online] Available at: https://fastercapital.com/content/JavaScript--Interactive-HTML-Elements--Unleashing-the-Power  ofJavaScript.html[Accessed 28 October 2026].
+FasterCapital,2026. JavaScript: Interactive HTML Elements: Unleashing the Power of JavaScript. [Online] Available at: https://fastercapital.com/content/JavaScript--Interactive-HTML-Elements--Unleashing-the-PowerofJavaScript.html[Accessed 28 October 2026].
 W3Schools.GoogleMapsBasic. [Online]Available at:https://www.w3schools.com/graphics/google_maps_basic.asp [ Accessed 28 October 2026].
 W3Schools.HTML Google Maps. [Online]Available at: https://www.w3schoolsedu.com/html-google-maps [ Accessed 28 October 2026].
 W3Schools.HowTOLight. [Online]Available at: https://www.w3schools.com/howto/howto_js_lightbox.asp [ Accessed 28 October 2026].
