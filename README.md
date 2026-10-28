@@ -144,6 +144,8 @@ Updated website design and added CSS styling
 18. Added hover and visual interaction effects to selected links and website elements to provide users with visual feedback when interacting with the website.
 19. Separated content from presentation by moving visual formatting from the HTML document into the external CSS stylesheet, making the website easier to maintain and update.
 20. Overall, improved the website from the original HTML-only version by adding structured CSS styling, responsive design, improved layouts, consistent colours, better spacing, interactive effects and media responsiveness.
+
+### Part 3
   
 ## Website references
 ### Part 1 referencing
