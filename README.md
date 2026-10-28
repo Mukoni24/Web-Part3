@@ -836,7 +836,7 @@ https://stockcake.com/i/village-gathering-space_335374_72238 [Accessed 3 August 
 
 ###  List of Figures: 
 #### Word Document:  Figures
-1. Figure 2: StockCake. 2026.Sharing community spirit.
+1. Figure 2: StockCake. 2026.Sharing community spirit. 
 2. Figure 3: StockCake. 2026.Tech store buzz.
 
 ### Website:  Figures 
