@@ -233,33 +233,33 @@ StockCake. [n.d.]. Volunteers Sorting Donations. [electronic print]. Available a
 https://stockcake.com/i/volunteers-sorting-donations_1256668_918539 [Accessed 3 August 
 2026].   
 
-22. StockCake. [n.d.]. Volunteers Packing Food. [electronic print]. Available at:  
+StockCake. [n.d.]. Volunteers Packing Food. [electronic print]. Available at:  
 https://stockcake.com/i/volunteers-packing-food_1092852_816531 [Accessed 3 August 2026].
  
-23. StockCake. [n.d.]. Hands Growing Community. [electronic print]. Available at:  
+StockCake. [n.d.]. Hands Growing Community. [electronic print]. Available at:  
 https://stockcake.com/i/hands-growing-community_4628656_1991300 [Accessed 3 August 
 2026].   
 
-24. StockCake. [n.d.]. Outdoor Community Meeting. [electronic print]. Available at:  
+StockCake. [n.d.]. Outdoor Community Meeting. [electronic print]. Available at:  
 https://stockcake.com/i/outdoor-community-meeting_1113634_790298 [Accessed 3 August 
 2026]. 
 
-25.  StockCake. [n.d.]. Children Under Tree. [electronic print]. Available at:  
+StockCake. [n.d.]. Children Under Tree. [electronic print]. Available at:  
 https://stockcake.com/i/children-under-tree_1394170_880295 [Accessed 3 August 2026].   
 
-26. StockCake. [n.d.]. Village Meeting Gathering. [electronic print]. Available at:  
+StockCake. [n.d.]. Village Meeting Gathering. [electronic print]. Available at:  
 https://stockcake.com/i/village-meeting-gathering_1131924_751096 [Accessed 3 August 
 2026].   
 
-27. StockCake. [n.d.]. Village Gathering Space. [electronic print]. Available at:  
+StockCake. [n.d.]. Village Gathering Space. [electronic print]. Available at:  
 https://stockcake.com/i/village-gathering-space_335374_72238 [Accessed 3 August 2026].
 
 ### Part 2 Referencing
-28. MDN Web Docs (n.d.) Backgrounds and borders. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Backgrounds_and_borders [Accessed: 15 September 2026]. 
+MDN Web Docs (n.d.) Backgrounds and borders. Available at: https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Backgrounds_and_borders [Accessed: 15 September 2026]. 
 
-29. W3Schools (n.d.) CSS Tutorial. Available at: https://www.w3schools.com/css/ [Accessed: 15 September 2026]. 
+W3Schools (n.d.) CSS Tutorial. Available at: https://www.w3schools.com/css/ [Accessed: 15 September 2026]. 
 
-30. W3Schools (n.d.) HTML and CSS Tutorial. Available at: https://www.w3schools.com/htmlcss/ [Accessed: 15 September 2026].
+W3Schools (n.d.) HTML and CSS Tutorial. Available at: https://www.w3schools.com/htmlcss/ [Accessed: 15 September 2026].
 
 ###  List of Figures: 
 #### Word Document:  Figures
@@ -285,7 +285,7 @@ https://stockcake.com/i/village-gathering-space_335374_72238 [Accessed 3 August 
     
 ### Part 3 Referencing
 
-FasterCapital,2026. JavaScript: Interactive HTML Elements: Unleashing the Power of JavaScript. [Online]Available at: https://fastercapital.com/content/JavaScript--Interactive-HTML-Elements--Unleashing-the-Power-ofJavaScript.html   [Accessed 28 October 2026].
+FasterCapital,2026. JavaScript: Interactive HTML Elements: Unleashing the Power of JavaScript. [Online] Available at: https://fastercapital.com/content/JavaScript--Interactive-HTML-Elements--Unleashing-the-Power  ofJavaScript.html[Accessed 28 October 2026].
 W3Schools.GoogleMapsBasic. [Online]Available at:https://www.w3schools.com/graphics/google_maps_basic.asp [ Accessed 28 October 2026].
 W3Schools.HTML Google Maps. [Online]Available at: https://www.w3schoolsedu.com/html-google-maps [ Accessed 28 October 2026].
 W3Schools.HowTOLight. [Online]Available at: https://www.w3schools.com/howto/howto_js_lightbox.asp [ Accessed 28 October 2026].
